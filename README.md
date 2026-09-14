@@ -51,7 +51,7 @@ The case study includes:
 
 ## Files
 
-- [Excel Case Study](./MAIN_Solar_Rooftop_Techno_Commercial_Case_Study (3).xlsx)
+- [Excel Case Study](./Solar_Rooftop_Techno_Commercial_Case_Study.xlsx)
 - [Case Study PDF](./Solar_Rooftop_Case_Study.pdf)
 - [Interview Report](./Solar_Rooftop_Interview_Report.pdf)
 ## Business Relevance
